@@ -3,7 +3,9 @@
 ## 본 프로젝트는 4학년 2학기 캡스톤 디자인 주제인 실내 자율 주행 로봇관련 파일을 업로드하는 레포입니다.
 
 ## 프로젝트 명은 USAE_v2며, Fusion360, ROS 사용하여 구현중입니다.
-### 본 프로젝트는 
+
+### 본 프로젝트는 https://github.com/reiniscimurs/DRL-robot-navigation?source=post_page-----d62715722303-------------------------------- 를 참고하였습니다.
+
 ### PART 1. ROBOT
 - 3 omni wheel bidirectional 구동 방식
 <img width="327" alt="image" src="https://github.com/kMinsAlgorithm/USAE_V2/assets/84526709/c8de5079-5657-43a4-a2fd-376e924a8433">
